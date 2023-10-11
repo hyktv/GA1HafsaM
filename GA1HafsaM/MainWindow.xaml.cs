@@ -23,6 +23,8 @@ namespace GA1HafsaM
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("My name is Hafsa and I want to get a good job in tech.");
         }
+
     }
 }
